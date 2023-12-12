@@ -14,3 +14,5 @@
 
 ### 4. 영상에 effect를 가할 수 있도록 에디터를 만드시오.
 
+![image](https://github.com/qkrgudals1030/gimal/assets/50895124/946f2f50-060e-4512-8236-3f6dfd39d460)
+
